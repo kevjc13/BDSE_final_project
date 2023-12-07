@@ -1,13 +1,5 @@
 # Movie Dataset Integration
 
-## Table of Contents
-1. Introduction
-2. Datasets
-3. Scripts
-4. Usage
-5. Contributing
-6. License
-
 ## Introduction
 This project aims to integrate and clean data from different movie-related datasets to create a comprehensive database. The datasets include information from TMBD, IMDB, and Oscar awards.
 
